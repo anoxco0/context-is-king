@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Navneet Kumar",
+      "age": "23",
+      "date_of_birth": "2004-01-07",
+      "state_of_residence": "Bihar",
+      "address": "patna",
+      "pin_code": "800007",
+      "id": 1
+    },
+    {
+      "name": "Rohan Bhad",
+      "age": "84",
+      "date_of_birth": "1937-12-28",
+      "state_of_residence": "sasta Maharastra",
+      "address": "dark city",
+      "pin_code": "121214",
+      "id": 2
+    },
+    {
+      "name": "Kushagra Dal",
+      "age": "7",
+      "date_of_birth": "2015-03-06",
+      "state_of_residence": "Bihar",
+      "address": "Kankarbaag",
+      "pin_code": "800008",
+      "id": 3
+    }
+  ]
+}
